@@ -1,0 +1,27 @@
+
+
+ requisitos conteudo 1 fundamentos js 
+
+                                                                      sistema de banco
+
+                    cadastrar pessoa contendo          CADASTRAR UMA CONTA 
+                                                        
+
+               TEMPLATE STRING                         NUMERO DA CONTA DE CADASTRO
+               VARIAVEIS                               NUMERO DO CARTÃO 
+               OBJETOS                                 SENHA DE 6 DIGITOS 
+               FUNÇÃO                                  DADOS DO USUARIO
+                                                       EXTRATO DA CONTA
+               NOME                                    SALDO DA CONTA 
+               CPF
+               ENDEREÇO                                FUNÇÕES 
+               IDADE                                   ARITMÉTICOS
+               RG                                      BOOLEAN
+               CEP                                     LOGICOS
+               CONTATO                                 IF ELSE
+               EMAIL                                   OBJETO
+
+
+
+
+               

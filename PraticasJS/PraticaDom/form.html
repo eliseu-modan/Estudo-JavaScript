@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+    <div class="form">
+        <form name="pesquisa" action="https://www.google.com.br/">
+            <input type="text" name="q" placeholder="Digite o termo ">
+            <select name="hl" >
+                <option value="pt-br"> Portugues Brasil</option>
+                <option value="en-us"> ingles americano</option>
+    
+            </select>
+            <button>Pesquisar</button>
+        </div></form> 
+         
+</body>
+<script>
+
+console.log(document.forms)
+console.log(document.forms[0])
+console.log(document.getElementsByName('pesquisa'))
+console.log(document.pesquisa)
+console.log(document.pesquisa.q)
+document.pesquisa.q.value = "Apague e Escreva"
+document.pesquisa.hl.value = 'en-us'
+document.pesquisa.q.value.selectedIndex
+</script>
+</html>
